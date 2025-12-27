@@ -1,0 +1,7 @@
+{
+  "name": "BillSplit Pro",
+  "description": "Scan restaurant receipts using your camera, extract line items with AI, and share links with friends to split the bill effortlessly.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
